@@ -3,7 +3,7 @@ import openai
 import time 
 
 # Set up OpenAI API key
-openai.api_key = "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"  # Replace with your OpenAI API key
+openai.api_key = "Your_Key_API"  # Replace with your OpenAI API key
 
 # Title of the app
 st.title("AI Doctor Chatbot")
